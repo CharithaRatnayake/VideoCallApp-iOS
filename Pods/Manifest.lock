@@ -1,0 +1,20 @@
+PODS:
+  - IQKeyboardManager (6.5.6)
+  - JitsiMeetSDK (2.9.0)
+
+DEPENDENCIES:
+  - IQKeyboardManager
+  - JitsiMeetSDK (= 2.9)
+
+SPEC REPOS:
+  trunk:
+    - IQKeyboardManager
+    - JitsiMeetSDK
+
+SPEC CHECKSUMS:
+  IQKeyboardManager: 2a6e97afdafc7becf0cb17a9a8d795e3a980717f
+  JitsiMeetSDK: e108ea68ed0ea9a59c4c90b057c5840db10ff069
+
+PODFILE CHECKSUM: b950c87947042be065ca7b612df48334861a98c4
+
+COCOAPODS: 1.9.3

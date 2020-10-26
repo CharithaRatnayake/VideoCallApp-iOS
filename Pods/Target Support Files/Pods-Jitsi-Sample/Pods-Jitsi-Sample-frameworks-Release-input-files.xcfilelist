@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-Jitsi-Sample/Pods-Jitsi-Sample-frameworks.sh
+${BUILT_PRODUCTS_DIR}/IQKeyboardManager/IQKeyboardManager.framework
+${PODS_ROOT}/JitsiMeetSDK/Frameworks/JitsiMeet.framework
+${PODS_ROOT}/JitsiMeetSDK/Frameworks/WebRTC.framework
